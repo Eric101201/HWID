@@ -1,13 +1,8 @@
 {
   "HwidChecker": {
-	"Versions":"1.6",
-	"Download":"https://cdn.discordapp.com/attachments/759482938538328105/765769099891834900/Hwid_Checker_V1.6.jar",
-	"Owner":"fea78e6146b7bf48189566944431bc6c / 7cb1ff102fca58d8bf26859d88d15b13 / 3d1f79d4d7330d4cfd96588b46bfa939",
-  	"BlackList":"fea78e6146b7bf48189566944431bc6c / 7cb1ff102fca58d8bf26859d88d15b13 / 3d1f79d4d7330d4cfd96588b46bfa939"
-},
-  "YukiClient": {
-	"Versions":"",
-	"Download":"",
-	"Hwid":""
-}
+	"Versions": "1.6",
+	"Download": "https://cdn.discordapp.com/attachments/759482938538328105/765769099891834900/Hwid_Checker_V1.6.jar",
+	"Owner": "fea78e6146b7bf48189566944431bc6c / 7cb1ff102fca58d8bf26859d88d15b13 / 3d1f79d4d7330d4cfd96588b46bfa939",
+  	"BlackList": "fea78e6146b7bf48189566944431bc6c / 7cb1ff102fca58d8bf26859d88d15b13 / 3d1f79d4d7330d4cfd96588b46bfa939"
+  }
 }
